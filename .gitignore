@@ -1,0 +1,2 @@
+# Ignore data files because they are large. Data availble at https://www.kaggle.com/datasets/sergioagudelo/phishing-url-detection/data
+data.csv
